@@ -2,6 +2,22 @@
 
 A full-stack Real-Time Chat Application built using **React.js**, **Node.js**, **Express.js**, **MongoDB Atlas**, and **Socket.io**. The application enables users to exchange messages instantly with persistent chat history and a clean, responsive interface.
 
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/Framework-Express.js-000000?logo=express&logoColor=white)
+
+![Socket.io](https://img.shields.io/badge/Realtime-Socket.io-010101?logo=socketdotio&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+![Mongoose](https://img.shields.io/badge/ODM-Mongoose-880000?logo=mongoose&logoColor=white)
+
+![Vite](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white)
+
+![Render](https://img.shields.io/badge/Deployment-Render-46E3B7?logo=render&logoColor=white)
+
 ---
 
 ## 🚀 Features
