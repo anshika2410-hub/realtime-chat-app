@@ -201,4 +201,17 @@ https://realtime-chat-app-bwk8.onrender.com/api/messages
 **Anshika Agrawal**
 
 GitHub:
-https://github.com/anshika2410-hub | Email:anshikaagrawal2410@gmail.com
+https://github.com/anshika2410-hub | Email:anshikaagrawal2410@gmail.com | Linkedin: https://www.linkedin.com/in/contact-anshikaagrawal/
+
+---
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome. Feel free to fork the repository, create a new branch, and submit a pull request.
+
+## 📜 License
+
+This project is available for educational and personal use.
+
+---
+
+⭐ If you found this project helpful, consider giving it a star on GitHub.
