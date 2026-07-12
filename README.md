@@ -134,32 +134,32 @@ https://realtime-chat-app-bwk8.onrender.com/
 
 ## Login Screen
 
-![Login Screen](./screenshots/login.png)
+![Login Screen](./screenshots/login_dashboard.png)
 
 ---
 
 ## Chat Interface
 
-![Chat Interface](./screenshots/chat.png)
+![Chat Interface](./screenshots/chat_interface.png)
 
 ---
 
 
 ## Typing Indicator
 
-![Typing Indicator](./screenshots/typing.png)
+![Typing Indicator](./screenshots/Typing_indicator.png)
 
 ---
 
 ## Online Users
 
-![Online Users](./screenshots/online-users.png)
+![Online Users](./screenshots/online_users.png)
 
 ---
 
 ## MongoDB Atlas Database
 
-![MongoDB](./screenshots/mongodb.png)
+![MongoDB](./screenshots/Database.png)
 
 ---
 
@@ -182,3 +182,5 @@ https://realtime-chat-app-bwk8.onrender.com/
 
 GitHub:
 https://github.com/anshika2410-hub
+Email:
+anshikaagrawal2410@gmail.com
