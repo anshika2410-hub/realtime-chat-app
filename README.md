@@ -128,6 +128,10 @@ Request Body
 
 https://realtime-chat-app-bwk8.onrender.com/
 
+### API
+
+https://realtime-chat-app-bwk8.onrender.com/api/messages
+
 ---
 
 ## 📸 Screenshots
@@ -181,6 +185,4 @@ https://realtime-chat-app-bwk8.onrender.com/
 **Anshika Agrawal**
 
 GitHub:
-https://github.com/anshika2410-hub
-Email:
-anshikaagrawal2410@gmail.com
+https://github.com/anshika2410-hub | Email:anshikaagrawal2410@gmail.com
