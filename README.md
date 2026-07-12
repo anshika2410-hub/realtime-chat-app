@@ -200,8 +200,9 @@ https://realtime-chat-app-bwk8.onrender.com/api/messages
 
 **Anshika Agrawal**
 
-GitHub:
-https://github.com/anshika2410-hub | Email:anshikaagrawal2410@gmail.com | Linkedin: https://www.linkedin.com/in/contact-anshikaagrawal/
+* GitHub: https://github.com/anshika2410-hub
+* LinkedIn: https://www.linkedin.com/in/contact-anshikaagrawal/
+* Email: anshikaagrawal2410@gmail.com
 
 ---
 ## 🤝 Contributing
