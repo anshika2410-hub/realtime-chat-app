@@ -196,7 +196,7 @@ https://realtime-chat-app-bwk8.onrender.com/api/messages
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Contact
 
 **Anshika Agrawal**
 
